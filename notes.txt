@@ -8,3 +8,8 @@ from here ill write the command and notes in the tutorial
 1st command
 php storage:link
 
+ so in components folder i move components to app and core folder
+
+ now installing daisy ui libaray for tailwind css
+
+ 
