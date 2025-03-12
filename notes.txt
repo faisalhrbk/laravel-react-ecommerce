@@ -1,0 +1,10 @@
+bismillah
+so we are running two servers rn 
+1 = laravel server
+2 = vite server
+
+from here ill write the command and notes in the tutorial
+
+1st command
+php storage:link
+
