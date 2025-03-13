@@ -12,4 +12,4 @@ php storage:link
 
  now installing daisy ui libaray for tailwind css
 
- day 2 of learning
+ day 2 of working on the project
