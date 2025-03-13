@@ -13,3 +13,16 @@ php storage:link
  now installing daisy ui libaray for tailwind css
 
  day 2 of working on the project
+ first we  are installing daisyui a tailwind css library where you can predefine buttons cards with tailwind classes
+
+
+
+   plugins: [forms], remove forms here
+ removing @tailwindcss/forms  from tailwind.config.js
+
+ then 
+ npm uninstall @tailwindcss/forms
+
+
+ then    plugins: [require('daisyui')],
+ and import
